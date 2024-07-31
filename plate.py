@@ -152,6 +152,6 @@ def timer(n,tokens):
         print(data.text)        
         time.sleep(n)
 # 3600*2
-token = '0219f2e2a4ef7e5da21efe8ed34e2d6e41197c38'
+token = '53894452d91e76c5f32e246de5bbfe81ef7e8b73'
 timer(600,token)
 
